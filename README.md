@@ -4,7 +4,7 @@
 - 💬 Ask me about anything, I'm an open book
 - 📫 How to reach me: ole.henrik.haug@gmail.com
 - ⚡ Fun fact about me: I love karaoke
-- 🌐 My portfolio website: xxxxxxxxxxx
+- 🌐 My portfolio website: (https://cute-llama-60ac4c.netlify.app/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
