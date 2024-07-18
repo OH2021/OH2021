@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently studying frontend development at Noroff
+- 🌱 Based in Oslo and I’m currently studying frontend development at Noroff
 - 💬 Ask me about anything, I'm an open book
 - 📫 How to reach me: ole.henrik.haug@gmail.com
 - ⚡ Fun fact about me: I love karaoke
