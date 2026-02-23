@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Ole Henrik</h1>
+<h1 align="center">Hey I'm Ole Henrik 👋</h1>
 <h3 align="center">Frontend Developer in Progress 🚀 | UI Enthusiast | Future Problem Solver</h3>
 
 <p align="center">
@@ -10,16 +10,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend development student based in Oslo 🇳🇴 with a strong interest in building clean, responsive and user-friendly web experiences.
-
-I enjoy turning ideas into interactive interfaces and continuously improving both my technical skills and design sense.
+I'm a frontend development student based in Oslo 🇳🇴 with an interest in building responsive and user-friendly web experiences.
 
 - 🎓 Studying Frontend Development at Noroff  
 - 🌍 Based in Oslo  
-- 💡 Passionate about UI, UX & accessibility  
-- 📚 Currently learning React & deeper JavaScript concepts  
-- 🎤 Fun fact: I love karaoke (yes, even the high notes 😄)  
-- 🧠 Growth mindset: Always learning, always building  
+- 💡 I'm into computers, fitness and travel  
+- 📚 Currently working on my portfolio and any other projects that comes my way  
+- 🎤 Fun fact: I love karaoke    
+- 💼 Actively building projects to prepare for a frontend career  
 
 ---
 
@@ -53,32 +51,20 @@ I enjoy turning ideas into interactive interfaces and continuously improving bot
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIN_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIN_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - 🚀 Land my first frontend developer role  
 - ⚛️ Become confident with React  
 - 🎨 Improve UI/UX design skills  
-- 🌍 Contribute to open source  
-- 🧩 Build larger full-scale projects  
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're into web development, design, tech, or just want to talk karaoke — feel free to reach out!
+If you're into web development, design, computers, or just want to talk karaoke — feel free to reach out!
 
 📧 ole.henrik.haug@gmail.com  
-🌐 https://cute-llama-60ac4c.netlify.app/
+🌐 https://por-2.netlify.app/
 
 ---
 
