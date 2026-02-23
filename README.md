@@ -64,10 +64,4 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 If you're into web development, design, computers, or just want to talk karaoke — feel free to reach out!
 
 📧 ole.henrik.haug@gmail.com  
-🌐 https://por-2.netlify.app/
-
----
-
-<p align="center">
-  <i>"Consistency beats motivation. Build something every week."</i>
-</p>
+🌐 https://por-2.netlify.app/  
