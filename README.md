@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:ole.henrik.haug@gmail.com">📫 Email</a> •
-  <a href="https://cute-llama-60ac4c.netlify.app/">🌐 Portfolio</a>
+  <a href="https://por-2.netlify.app/">🌐 Portfolio</a>
 </p>
 
 ---
