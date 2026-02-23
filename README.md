@@ -8,7 +8,7 @@
 - 🌍 Based in Oslo, Norway  
 - 🎓 Studying Frontend Development at Noroff  
 - 💡 Passionate about clean UI, responsive design & user experience  
-- 🎤 Fun fact: I *love* karaoke (yes, I take song requests 😄)  
+- 🎤 Fun fact about me: I love karaoke  
 - 💬 Ask me about anything – I’m an open book  
 
 ---
