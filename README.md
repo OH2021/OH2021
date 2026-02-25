@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Ole Henrik 👋</h1>
-<h3 align="center">Frontend Developer in Progress 🚀 | UI Enthusiast | Future Problem Solver</h3>
+<h3 align="center">Frontend Developer in Progress 🚀 | React & Tailwind Builder | Future Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:ole.henrik.haug@gmail.com">📫 Email</a> •
@@ -14,8 +14,10 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 
 - 🎓 Studying Frontend Development at Noroff  
 - 🌍 Based in Oslo  
+- ⚛️ Building modern interfaces with React  
+- 🎨 Styling with Tailwind and SASS  
 - 💡 I'm into computers, fitness and travel  
-- 📚 Currently working on my portfolio and any other projects that comes my way  
+- 📚 Currently building portfolio projects and improving my frontend architecture skills  
 - 🎤 Fun fact: I love karaoke    
 - 💼 Actively building projects to prepare for a frontend career  
 
@@ -28,7 +30,11 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 - CSS3  
 - JavaScript (ES6+)  
 
+### ⚛️ Frameworks & Libraries
+- React  
+
 ### 🎨 Styling & UI
+- Tailwind CSS  
 - Bootstrap  
 - SASS  
 - Responsive Design  
@@ -37,7 +43,7 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 ### 🔧 Tools & Workflow
 - GitHub  
 - VS Code  
-- Netlify
+- Netlify  
 - Trello  
 
 ---
@@ -45,8 +51,9 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 ## 🎯 2026 Goals
 
 - 🚀 Land my first frontend developer role  
-- ⚛️ Become confident with React  
-- 🎨 Improve UI/UX design skills  
+- ⚛️ Build scalable applications with React  
+- 🎨 Master modern UI development with Tailwind  
+- 🧠 Strengthen problem-solving and application architecture skills  
 
 ---
 
