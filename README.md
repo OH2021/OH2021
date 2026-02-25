@@ -17,7 +17,7 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 - ⚛️ Building modern interfaces with React  
 - 🎨 Styling with Tailwind and SASS  
 - 💡 I'm into computers, fitness and travel  
-- 📚 Currently building portfolio projects and improving my frontend architecture skills  
+- 📚 Currently building my portfolio project
 - 🎤 Fun fact: I love karaoke    
 - 💼 Actively building projects to prepare for a frontend career  
 
