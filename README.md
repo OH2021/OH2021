@@ -35,19 +35,10 @@ I'm a frontend development student based in Oslo 🇳🇴 with an interest in bu
 - Flexbox & Grid  
 
 ### 🔧 Tools & Workflow
-- Git  
 - GitHub  
 - VS Code  
-- Netlify  
-
----
-
-## 🚧 What I'm Working On
-
-- Building responsive web projects  
-- Improving JavaScript fundamentals  
-- Practicing API integration  
-- Creating clean and scalable code structures  
+- Netlify
+- Trello  
 
 ---
 
